@@ -1,0 +1,52 @@
+body {
+  margin: 0;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.flex-item {
+  font-size: 2rem;
+  color: black;
+}
+
+.flex-item-1 {
+  background: rgb(239, 160, 63);
+}
+
+.flex-item-2 {
+  background: rgb(104, 239, 63);
+}
+
+.flex-item-3 {
+  background: rgb(29, 179, 248);
+}
+.flex-item-4 {
+  background: rgba(229, 113, 255, 0.368);
+}
+
+.flex-item-5 {
+  background: rgba(59, 3, 16, 0.368);
+}
+.flex-item-6 {
+  background: rgba(20, 207, 182, 0.824);
+}
+.flex-item-7 {
+  background: rgba(32, 22, 234, 0.824);
+}
+.flex-item-8 {
+  background: rgba(85, 4, 114, 0.824);
+}
+
+.child-wrapper {
+  border: 5px solid black;
+  height: 700px;
+}
+
+/* write your code below */
+
+.child-wrapper {
+  /* display: flex; */
+}
